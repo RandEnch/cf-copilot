@@ -25,9 +25,9 @@
 
 
 ## 演示站
-- Copilot -> https://microsoft-copilot-porxy.pages.dev/
-- Copilot(新版) -> https://microsoft-copilot-porxy.pages.dev/?dpwa=1
-- Designer -> https://microsoft-copilot-porxy.pages.dev/images/create
+- Copilot -> https://copilot.6m6c.cn/
+- Copilot(新版) -> https://copilot.6m6c.cn/?dpwa=1
+- Designer -> https://copilot.6m6c.cn/images/create
 
 ## 登录方式
 
@@ -122,6 +122,12 @@ npm run build-page
 之后就完成了。
 ![image](https://github.com/jianjianai/microsoft-copilot-porxy/assets/59829816/ce012d84-7df9-426b-877e-42e6fe77872e)
 
+
+4. 后续更新
+
+同步 github 仓库后 Workers 和 Pages 会自动同步更新。
+
+![image](https://github.com/jianjianai/microsoft-copilot-porxy/assets/59829816/f26b3753-0963-4a78-8773-7a9b6ebc1199)
 </details>
 
 
