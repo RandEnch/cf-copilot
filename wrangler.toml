@@ -1,7 +1,7 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "microsoft-copilot-porxy"
-main = "dist/index.js"
-compatibility_date = "2024-05-24"
+name = "copilot-proxy"
+main = "index.js"
+compatibility_date = "2025-09-20"
 compatibility_flags = ["nodejs_compat"]
 
 # Automatically place your workloads in an optimal location to minimize latency.
